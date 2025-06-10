@@ -1,4 +1,4 @@
-# pomodoro-timer-
+# pomodoro timer❥
 # 🍅 毛絨番茄鐘
 
 QAQ!!嘿嘿，這是一個具有淡粉色毛絨質感的番茄鐘應用！
